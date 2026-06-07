@@ -22,3 +22,13 @@
 
 * **Live App**: [Traffic Intelligence App](https://carcolordetectionsub-app-working.streamlit.app/)
 * **GitHub Repo**: [Car & Traffic Detection Repository](https://github.com/KVAlwaysLearning/Car_Color_Detection_Sub)
+
+## **Sign Language Detection**
+
+* **Live App**: [Sign Language Detection App](https://signlanguagedetectionsub-app.streamlit.app/)
+* **GitHub Repo**: [Sign Language Detection Repository](https://github.com/KVAlwaysLearning/Sign_Language_Detection_Sub)
+
+## **Nationality Detection**
+
+* **Live App**: [Nationality Detection App](https://nationalitydetectionsub-app.streamlit.app/)
+* **GitHub Repo**: [Nationality Detection Repository](https://github.com/KVAlwaysLearning/Nationality_Detection_Sub)
