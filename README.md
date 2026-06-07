@@ -10,10 +10,10 @@
 
 ## **Long Hair Identification:**
 
-* **Live App**: [Long Hair Detection App](https://www.google.com/search?q=https://longhairdetection-app.streamlit.app/)
+* **Live App**: [Long Hair Detection App]](https://longhairdetectionsub-app.streamlit.app/)
 * **GitHub Repo**: [Long Hair Detection Repository](https://github.com/KVAlwaysLearning/Long_Hair_Detection_Sub)
 
 ## **Age Emotion Detection with Voice:**
 
-* **Live App**: [Voice Analysis App](https://)ageemotiondetectionwithvoice-app.streamlit.app/)
+* **Live App**: [Voice Analysis App](https://ageemotiondetectionwithvoicesub-app.streamlit.app/)
 * **GitHub Repo**: [Age & Emotion Detection Repository](https://github.com/KVAlwaysLearning/Age_Emotion_Detection_with_voice_Sub)
