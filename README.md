@@ -6,7 +6,7 @@
 
 ## 🔗 List of Links
 
-## G-Drive Link for Datasets: [Project Data] (https://drive.google.com/drive/folders/1-BJWk_14MKTAhPHLFOmk24DG4V6nBFOx)
+*G-Drive Link**: [All Datasets](https://drive.google.com/drive/folders/1-BJWk_14MKTAhPHLFOmk24DG4V6nBFOx)
 
 
 ## **Car Color Detection**
