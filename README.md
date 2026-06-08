@@ -1,12 +1,14 @@
 # Combined_Projects_Repo
 
+Jupyter Notebook files for each project have the codes for fetching dataset, extracting relevent files/images, spliting data, training dataset, creating visualization, testing and visualization, saving model, etc.
 
-
-## Please, find the list of all project repos along with live streamlit app below. The common Google Drive link for all Project Datasets has also been added below:
+Please, find the list of all project repos along with live streamlit app below. 
+The common Google Drive link for all Project Datasets has also been added below.
 
 ## 🔗 List of Links
 
-*G-Drive Link**: [All Datasets](https://drive.google.com/drive/folders/1-BJWk_14MKTAhPHLFOmk24DG4V6nBFOx)
+**G-Drive Link**: [All Datasets](https://drive.google.com/drive/folders/1-BJWk_14MKTAhPHLFOmk24DG4V6nBFOx)
+
 
 
 ## **Car Color Detection**
@@ -15,16 +17,19 @@
 * **GitHub Repo**: [Car & Traffic Detection Repository](https://github.com/KVAlwaysLearning/Car_Color_Detection_Sub)
 
 
+
 ## **Senior Citizen Identification:**
 
 * **Live App**: [Senior Citizen Identification App](https://seniorcitizenidentificationsub-app.streamlit.app/)
 * **GitHub Repo**: [Senior Citizen Identification Repo](https://github.com/KVAlwaysLearning/Senior_citizen_Identification_Sub)
 
 
+
 ## **Long Hair Identification:**
 
 * **Live App**: [Long Hair Detection App]](https://longhairdetectionsub-app.streamlit.app/)
 * **GitHub Repo**: [Long Hair Detection Repository](https://github.com/KVAlwaysLearning/Long_Hair_Detection_Sub)
+
 
   
 ## **Sign Language Detection**
@@ -33,10 +38,12 @@
 * **GitHub Repo**: [Sign Language Detection Repository](https://github.com/KVAlwaysLearning/Sign_Language_Detection_Sub)
 
 
+
 ## **Nationality Detection**
 
 * **Live App**: [Nationality Detection App](https://nationalitydetectionsub-app.streamlit.app/)
 * **GitHub Repo**: [Nationality Detection Repository](https://github.com/KVAlwaysLearning/Nationality_Detection_Sub)
+
 
 
 ## **Age Emotion Detection with Voice:**
