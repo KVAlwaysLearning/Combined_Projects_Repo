@@ -27,7 +27,7 @@ The common Google Drive link for all Project Datasets has also been added below.
 
 ## **Long Hair Identification:**
 
-* **Live App**: [Long Hair Detection App]](https://longhairdetectionsub-app.streamlit.app/)
+* **Live App**: [Long Hair Detection App](https://longhairdetectionsub-app.streamlit.app/)
 * **GitHub Repo**: [Long Hair Detection Repository](https://github.com/KVAlwaysLearning/Long_Hair_Detection_Sub)
 
 
